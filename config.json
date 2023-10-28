@@ -1,0 +1,22 @@
+{
+    "client": {
+        "token": "MTA4MDg5NzY4Mjc0MDEwMTE3MQ.GcGPPN.iOnw_N5ZOOwXIu4mPYgFedrK0nNJtHYi8HyhHU"
+    },
+    "embeds_color": {
+        "embed_primary": "#ff00ff",
+        "embed_invisible": "#2f3136",
+        "embed_success": "#00ff00",
+        "embed_error": "#ff0000"
+    },
+    "ticket": {
+        "category_id": "1087927936927150160",
+        "category_call_id": "1087927936927150160",
+        "support_role": "1087924268383342763",
+        "channel_logs": "1087933213562917005"
+    },
+    "sales": {
+        "pix": "Sem pix",
+        "qrcode": "Sem Qrcode",
+        "name": "Pessoa jurídica"
+    }
+}
